@@ -12,6 +12,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=jotavev&rank=-C,-?,-B&theme=dracula&no-bg=true&column=1&margin-w=15&margin-h=15" />
 </p>
 
+
+<div align="center">  
+<a href="https://www.linkedin.com/in/valentejorge/"><img src="https://img.shields.io/badge/-Linkedin-%230072B1?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+</div>
+
 ### Skills:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&logoColor=1572B6&labelColor=0D1117)&nbsp;
