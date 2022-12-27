@@ -20,9 +20,9 @@
 
 <div align="center" width="80%">  
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jotavev&include_all_commits=true&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117#gh-dark-mode-only" width="49%">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jotavev&include_all_commits=true&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=2F9E9E&text_color=fefefe&bg_color=005252#gh-light-mode-only" width="49%">
-    <img alt="A cool header." src="https://github-readme-stats.vercel.app/api?username=jotavev&include_all_commits=true&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=2F9E9E&text_color=fefefe&bg_color=005252#gh-light-mode-only" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jotavev&include_all_commits=true&show_icons=true&count_private=false&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" width="49%">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jotavev&include_all_commits=true&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=2f9e9e&text_color=fefefe&bg_color=005252#gh-light-mode-only" width="49%">
+    <img alt="A cool header." src="https://github-readme-stats.vercel.app/api?username=jotavev&include_all_commits=true&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=2F9E9E&text_color=fefefe&bg_color=005252" width="49%">
   </picture>
   
   <picture>
