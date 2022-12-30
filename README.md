@@ -1,63 +1,17 @@
-[comment]: # (adaptive header for dark and light theme)
+<img alt="A cool header." src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header" width="100%">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header" width="100%">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=005252&height=120&section=header" width="100%">
-  <img alt="A cool header." src="https://capsule-render.vercel.app/api?type=waving&color=1c1c1c&height=120&section=header" width="100%">
-</picture>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jorge+Valente+Jr;I+from+Brasil,+PA;I+study+Computer+Science+at+OSSU;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jorge+Valente+Jr;I+from+Brasil,+PA;I+study+Computer+Science+at+OSSU;Be+Welcome!+:%29)](https://git.io/typing-svg#gh-dark-mode-only)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=005252&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jorge+Valente+Jr;I+from+Brasil,+PA;I+study+Computer+Science+at+OSSU;Be+Welcome!+:%29)](https://git.io/typing-svg#gh-light-mode-only)
-
-<!--
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jotavev&include_all_commits=true&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117#gh-dark-mode-only" alt="Jorge Valente Jr github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotavev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&langs_count=6&count_private=true" />
-</div>
--->
-
-<div align="center" width="80%">  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jotavev&include_all_commits=true&show_icons=true&count_private=false&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" width="49%">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jotavev&include_all_commits=true&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=2f9e9e&text_color=fefefe&bg_color=005252#gh-light-mode-only" width="49%">
-    <img alt="A cool header." src="https://github-readme-stats.vercel.app/api?username=jotavev&include_all_commits=true&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=2F9E9E&text_color=fefefe&bg_color=005252" width="49%">
-  </picture>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jotavev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&langs_count=6&count_private=true" width="48%">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jotavev&layout=compact&hide_border=true&title_color=ffffff&text_color=fefefe&bg_color=005252&langs_count=6&count_private=true" width="48%">
-    <img alt="github languages." src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotavev&layout=compact&hide_border=true&title_color=ffffff&text_color=fefefe&bg_color=005252&langs_count=6&count_private=true" width="48%">
-  </picture>
-  
-</div>
-<!--
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jotavev&include_all_commits=true&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=2F9E9E&text_color=fefefe&bg_color=005252#gh-light-mode-only" alt="Jorge Valente Jr github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jotavev&include_all_commits=true&show_icons=true&count_private=false&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Jorge Valente Jr github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotavev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&langs_count=6&count_private=true" />
 </div>
--->
-
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jotavev&rank=-C,-?,-B&theme=flat&no-bg=true&column=1&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jotavev&rank=-C,-?,-B&theme=darkhub&no-bg=false&column=1&margin-w=15&margin-h=15" />
 </p>
 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jotavev&rank=-C,-?,-B&theme=flat&no-bg=true&column=1&margin-w=15&margin-h=15" />
-</p>
-
-
-<div align="center" size="50%">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=jotavev&rank=-C,-?,-B&theme=dracula&no-bg=true&column=1&margin-w=15&margin-h=15" width="100%">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=jotavev&rank=-C,-?,-B&theme=juicyfresh&no-bg=true&column=1&margin-w=15&margin-h=15" width="100%"/>
-    <img alt="github trophy." src="https://github-profile-trophy.vercel.app/?username=jotavev&rank=-C,-?,-B&theme=juicyfresh&no-bg=true&column=1&margin-w=15&margin-h=15" width="100%">
-  </picture>
-</div>
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/valentejorge/"><img src="https://img.shields.io/badge/-Linkedin-%230072B1?style=for-the-badge&logo=linkedin&logoColor=white"</a>
@@ -83,4 +37,5 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![CorelDraw](https://img.shields.io/badge/-corel_draw-0D1117?style=for-the-badge&logo=coreldraw&labelColor=0D1117)&nbsp;
 
+  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
