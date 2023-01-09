@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jotavev&rank=-C,-?,-B&theme=darkhub&no-bg=false&column=1&margin-w=15&margin-h=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jotavev&rank=-C,-?,-B&theme=darkhub&no-bg=false&column=2&margin-w=15&margin-h=15&no-frame=true&count_private=true" />
 </p>
 
 
