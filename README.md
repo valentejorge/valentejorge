@@ -4,12 +4,12 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jotavev&include_all_commits=true&show_icons=true&count_private=false&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Jorge Valente Jr github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotavev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&langs_count=6&count_private=true" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=valentejorge&include_all_commits=true&show_icons=true&count_private=false&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Jorge Valente Jr github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentejorge&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&langs_count=6&count_private=true" />
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jotavev&rank=-C,-?,-B&theme=darkhub&no-bg=false&column=2&margin-w=15&margin-h=15&no-frame=true&count_private=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=valentejorge&rank=-C,-?,-B&theme=darkhub&no-bg=false&column=2&margin-w=15&margin-h=15&no-frame=true&count_private=true" />
 </p>
 
 
