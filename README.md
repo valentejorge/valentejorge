@@ -23,21 +23,23 @@
 ![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-css3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
+<!-- -->
+![Sqlite](https://img.shields.io/badge/-sqlite-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117)&nbsp;
+![Postgresql](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+
 
 ### Tools:
-![VIM](https://img.shields.io/badge/-vim-0D1117?style=for-the-badge&logo=vim&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Flask](https://img.shields.io/badge/-flask-0D1117?style=for-the-badge&logo=flask&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Railway](https://img.shields.io/badge/-railway-0D1117?style=for-the-badge&logo=railway&labelColor=0D1117)&nbsp;
 <!-- -->
+![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![SqlAlchemy](https://img.shields.io/badge/-SQLalchemy-0D1117?style=for-the-badge&logo=alchemy&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
-![popOS](https://img.shields.io/badge/-pop_os-0D1117?style=for-the-badge&logo=popos&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge:
-![HTML5](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html5&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-css-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![CorelDraw](https://img.shields.io/badge/-corel_draw-0D1117?style=for-the-badge&logo=coreldraw&labelColor=0D1117)&nbsp;
+![Heroku](https://img.shields.io/badge/-heroku-0D1117?style=for-the-badge&logo=heroku&labelColor=0D1117)&nbsp;
 
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
