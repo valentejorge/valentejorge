@@ -32,14 +32,14 @@
 ![Flask](https://img.shields.io/badge/-flask-0D1117?style=for-the-badge&logo=flask&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![Railway](https://img.shields.io/badge/-railway-0D1117?style=for-the-badge&logo=railway&labelColor=0D1117)&nbsp;
+![Heroku](https://img.shields.io/badge/-heroku-0D1117?style=for-the-badge&logo=heroku&labelColor=0D1117)&nbsp;
 <!-- -->
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![SqlAlchemy](https://img.shields.io/badge/-SQLalchemy-0D1117?style=for-the-badge&logo=alchemy&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 
+
 ### Other Knowledge:
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Heroku](https://img.shields.io/badge/-heroku-0D1117?style=for-the-badge&logo=heroku&labelColor=0D1117)&nbsp;
-
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
